@@ -4,6 +4,12 @@ Next.js のテンプレート
  - `Repository Template` で `next-template` を選択
  - このテンプレートが新しいレポジトリにコピーされる
 
+###
+- Node.js をインストールすると `npm` が使えるようになる
+```
+npm install -g yarn
+```
+
 ### 実行
 - 必要なパッケージをインストール
 ```
