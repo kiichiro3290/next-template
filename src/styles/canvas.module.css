@@ -1,0 +1,22 @@
+.outline {
+  height: 100vh;
+  width: 100vw;
+  background-color: red;
+  overflow: hidden;
+}
+
+.overlay {
+  height: 100vh;
+  width: 100vw;
+  background-color: blue;
+  overflow: scroll;
+}
+
+.view {
+  height: 1800px;
+  width: 3600px;
+  background-size: 100% 100%;
+  background-image: url('../../public/default-spatial-room-bg.png');
+  position: absolute;
+  transform: scale(5, 5);
+}
